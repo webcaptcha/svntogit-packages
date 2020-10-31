@@ -4,7 +4,7 @@
 # Contributor: Partha Chowdhury <kira.laucas@gmail.com>
 
 pkgname=conky
-pkgver=1.11.5
+pkgver=1.11.6
 pkgrel=4
 pkgdesc='Lightweight system monitor for X'
 url='https://github.com/brndnmtthws/conky'
